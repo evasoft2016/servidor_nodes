@@ -1,0 +1,16 @@
+{
+  "name": "servidor_nodes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["servidor_nodes","viana_servidor"],
+  "author": "Viana",
+  "license": "ISC",
+  "description": "Teste de node rodando na nuvem",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
